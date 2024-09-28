@@ -1,7 +1,7 @@
 from pprint import pprint
 
 def main():
-    with open('input.txt', 'r') as file:
+    with open('Day3_Gear Ratios\\input.txt', 'r') as file:
         content = file.readlines()
     
     calibration_sum = 0
